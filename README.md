@@ -1,7 +1,7 @@
 # live webcam triangulation filter
 Like all the beautiful polygon pictures - only live and way less nice
 
-Idea based on: http://www.jhclaura.com/triangulation/
+Idea based on: https://archive.jhclaura.com/portfolio/triangulation/
 
 
 ## Settings
